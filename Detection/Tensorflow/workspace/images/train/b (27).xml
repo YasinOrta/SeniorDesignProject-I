@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>b (27).jpg</filename>
+	<path>X:\Object Detection Jupyter Lab\Detection\Tensorflow\workspace\images\train\b (27).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redbrick</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1342</xmin>
+			<ymin>408</ymin>
+			<xmax>2048</xmax>
+			<ymax>1121</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>redbrick</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>583</xmin>
+			<ymin>1</ymin>
+			<xmax>2048</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>redbrick</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>633</xmin>
+			<ymin>969</ymin>
+			<xmax>2048</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+</annotation>

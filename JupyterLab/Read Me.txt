@@ -1,0 +1,6 @@
+Creating Brick Classification Model using CNN
+in short CBCMUCNN
+
+The created model is sequential model which makes binary prediction
+on wheter the given input image is brick or not depending on the sigmoid 
+calculation.

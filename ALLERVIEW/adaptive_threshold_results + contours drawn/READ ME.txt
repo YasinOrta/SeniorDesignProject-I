@@ -1,0 +1,12 @@
+Allerview.py writes 3 versions of the given image;
+- adaptive threshold applied version with block size 45 and C is 4
+- contours drawn with respect to adaptive threshold version
+- original image itself
+
+EditingArmImage.py 
+this is an edit version of the main code
+main purpose here is to find optimal values and experiment with different 
+algorithms
+
+Background removal methods
+https://www.freedomvc.com/index.php/2022/01/17/basic-background-remover-with-opencv/
